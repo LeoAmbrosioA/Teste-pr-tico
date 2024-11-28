@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ncgdBJdZnqI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\Downloads\\AnimalManager\\AnimalManager\\AnimalManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
